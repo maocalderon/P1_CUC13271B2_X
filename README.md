@@ -5,6 +5,7 @@
 
 ### Evidencias Punto 1
 
+
 # Punto 2
 3. Contador de vocales y consonantes: Cree un programa que cuente el número de vocales y consonantes en una cadena de texto proporcionada por el usuario.
 
